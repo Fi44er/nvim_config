@@ -6,7 +6,7 @@
 local M = {}
 
 M.base46 = {
-  theme = "everblush",
+  theme = "yoru",
   transparency = false,
   theme_toggle = { "everblush", "yoru" },
 
